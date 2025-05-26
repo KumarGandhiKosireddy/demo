@@ -2,11 +2,12 @@ nav{
      width:100%;
      height:10vh;
      font-size: 30px;
-     background-color:cadetblue;
+     background-color:lavender;
      display:flex;
      justify-content:space-evenly;
      align-items:center;
      }
 nav a{
+     color: cadetblue;
      text-decoration:none;
 }
